@@ -1,0 +1,53 @@
+add attribute:
+alter table (table)
+add (attribute) (type)
+
+drop attribute:
+alter table (table)
+drop attribute
+
+update data:
+update (table)
+set (attribute) =''
+where (attribute) =''
+
+delete data:
+delete from (table)
+where (attribute) =''
+
+drop table:
+drop table book
+
+insert into book values ('01', 'adom boma',2013,4.1,155976,"Five college students take time off to spend a peaceful vacation in a remote cabin. A book and audio tape is discovered, and its evil is found to be powerful once the incantations are read out loud. The friends find themselves helpless to stop the evil as it takes them one by one, with only one survivor left with the evil dead and desperately tries to fight to live until morning.");
+
+insert into category values ('01', 'article');
+
+insert into author values ('01', 'salimullah khan','1958-08-18' ,'male');
+
+insert into customer values ('01', 'safi ul sahid','1993-12-29' ,'male');
+
+insert into admin values ('01', 'sohel','1993-12-31' ,'male');
+
+insert into publisher values ('01', 'agami');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
